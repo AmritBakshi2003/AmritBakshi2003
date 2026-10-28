@@ -1,11 +1,11 @@
-<!-- Save this as README.md in a public repo named exactly like your GitHub username: AmritBakshi2003/AmritBakshi2003 -->
+<!-- Save as README.md in a public repo named exactly like your username: AmritBakshi2003/AmritBakshi2003 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Amrit%20Bakshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Founder%20%7C%20Builder&descAlignY=58&descSize=20" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Amrit%20Bakshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Science%20%7C%20Builder&descAlignY=58&descSize=20" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=College+by+day%2C+founder+by+grind.;I+turn+ideas+into+shipped+products.;Learning+in+public.+Building+every+day.;Currently+levelling+up+in+Java%2C+OOP+%26+DSA." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+decisions.;From+fullstack+dev+to+data+analyst.;I+still+build+apps+for+fun+and+freelancing.;College+by+day%2C+founder+by+grind." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,39 +21,68 @@
 
 ## 👋 About Me
 
-I'm a **fullstack developer from India** who loves the whole journey of a product: the idea, the architecture, the late-night debugging, and the moment real users touch it.
+I'm **Amrit Bakshi**, a developer from India who started in fullstack web development and is now **moving into Data Analytics and Data Science**. Years of building real products taught me how software works; now I'm learning how to make data tell its story.
 
-I'm studying in college while building as a founder at **[Aerwok](https://www.aerwok.com)**, so every concept I learn gets tested against real-world problems almost immediately. That loop is what drives my growth.
+I'm studying in college while running **[Aerwok](https://www.aerwok.com)**, and I keep building **web apps, websites and Windows apps** for fun and freelance work. They keep my engineering skills sharp and give me a practical edge when turning analysis into something people can actually use.
 
-- 🔭 **Currently sharpening:** Java, OOP and Data Structures & Algorithms
-- 🌱 **Currently building:** desktop and web tools with Rust, Svelte and the modern web stack
-- 💬 **Ask me about:** the MERN stack, shipping side projects, balancing college with a startup
+- 🔭 **Focus now:** Data Analytics, Data Science, Python and SQL
+- 🛠️ **On the side:** web apps, websites and desktop tools (freelance and passion projects)
+- 💬 **Ask me about:** data analysis, the MERN stack, building and shipping side projects
 - ⚡ **Fun fact:** college by day, founder by grind
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Data Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🛒 [E-commerce Sales Analysis](https://github.com/AmritBakshi2003/E-commerce_Sales_Analysis-Project)
+Exploring e-commerce sales data to uncover trends and business insights that support better decisions.
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🧬 [Synthetic Data Generator v2](https://github.com/AmritBakshi2003/Synthetic-Data-Generator-v2)
+A tool for generating synthetic datasets, handy for testing, prototyping and practicing analysis without real data.
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Apps and Builds
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
 ### 🏝️ [Isle](https://github.com/AmritBakshi2003/Isle)
-A Windows always-on-top "island" utility drawer that keeps everyday tools one click away.
-
-- Media controls, clipboard history, tasks and calendar, app picker
-- Built with **Tauri 2 · Rust · Svelte 5 · SQLite**
-- Focus: performance, small footprint, polished UX
+A Windows always-on-top "island" utility drawer: media controls, clipboard history, tasks and calendar, app picker.
+**Tauri 2 · Rust · Svelte 5 · SQLite**
 
     </td>
     <td width="50%" valign="top">
 
 ### 🧮 [Calculator Suite](https://github.com/AmritBakshi2003/The_calcualtor)
-A web calculator with basic, scientific and financial modes, plus a scanner that reads handwritten math and solves it.
+Basic, scientific and financial calculators plus a scanner that reads handwritten math and solves it.
+**Cloudflare Workers** · [Live demo →](https://the-calcualtor.amritbakshi2003.workers.dev/)
 
-- OCR pipeline with multiple readers and AI arbitration
-- Deployed on **Cloudflare Workers**
-- [Live demo →](https://the-calcualtor.amritbakshi2003.workers.dev/)
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📅 [My Calender](https://github.com/AmritBakshi2003/My_Calender)
+A personal calendar app to plan and organize days.
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🐍 [Snake Game](https://github.com/AmritBakshi2003/Snake-Game)
+The classic arcade game, rebuilt for the fun of it.
 
     </td>
   </tr>
@@ -61,7 +90,7 @@ A web calculator with basic, scientific and financial modes, plus a scanner that
     <td colspan="2" valign="top">
 
 ### 🌐 [Aerwok](https://www.aerwok.com)
-The startup I'm building alongside college: real users, real deadlines, real lessons in product, engineering and business.
+The startup I'm building alongside college: real users, real deadlines, real lessons in product and business.
 
     </td>
   </tr>
@@ -71,33 +100,30 @@ The startup I'm building alongside college: real users, real deadlines, real les
 
 ## 🛠️ Tech Stack
 
-**Core**
+**Data and Analytics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+**Web and App Development**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-**Backend and Data**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Cloud, DevOps and Tools**
+**Cloud and Tools**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -112,30 +138,29 @@ The startup I'm building alongside college: real users, real deadlines, real les
 ## 📈 My Growth Roadmap
 
 ```text
- Foundations          Fullstack            Founder              What's next
- ───────────          ─────────            ───────              ───────────
- C · C++ · Java   →   MERN · Next.js   →   Aerwok: shipping →   Systems with Rust,
- OOP · DSA            Postgres · Cloud     to real users        scalable backends,
-                                                                 deeper CS fundamentals
+ Foundations        Fullstack Dev       Founder & Freelance     Data Career (now)
+ ───────────        ─────────────       ───────────────────     ─────────────────
+ C · C++ · Java →   MERN · Next.js  →   Aerwok · client apps →  Data Analytics
+ OOP · DSA          Databases · Cloud   Rust & desktop tools    Data Science
 ```
 
 | Stage | Focus | Status |
 |:--|:--|:--|
-| 🧱 **Foundations** | Programming fundamentals, OOP, problem solving | ✅ Built, still sharpening |
-| 🌐 **Fullstack** | MERN, REST APIs, databases, deployment | ✅ Shipping projects |
-| 🚀 **Founder mindset** | Product thinking, real users, working under deadlines | 🔄 Ongoing with Aerwok |
-| ⚙️ **Systems and depth** | Rust, desktop apps, performance, architecture | 🔄 Learning through Isle |
-| 🧠 **Core CS mastery** | Data Structures and Algorithms in Java | 🔄 Daily practice |
+| 🧱 **Foundations** | Programming fundamentals, OOP, problem solving | ✅ Done |
+| 🌐 **Fullstack** | MERN, REST APIs, databases, deployment | ✅ Shipped projects |
+| 🚀 **Founder and freelance** | Real users, client work, product thinking | 🔄 Ongoing |
+| 📊 **Data Analytics** | Python, SQL, cleaning, EDA, dashboards and storytelling | 🔄 Learning and building |
+| 🤖 **Data Science** | Statistics, machine learning, predictive modeling | 🎯 Next up |
 
 ---
 
 ## 🎯 What Drives Me
 
-> I believe the fastest way to grow is to **build things that matter, ship them publicly, and learn from what breaks.**
+> I learn fastest by **building real things, sharing them openly, and learning from what breaks.**
 
-- 🔨 **Build first, polish always.** A working product teaches more than a perfect plan.
-- 📚 **Learn in public.** Every project here is a lesson I'm willing to show.
-- 🤝 **Collaborate.** Open to ideas, contributions and conversations.
+- 📊 **Data with purpose.** Analysis only matters when it leads to a decision.
+- 🔨 **Builder's edge.** My development background lets me take an idea from raw data to a working tool.
+- 📚 **Learn in public.** Every repo here is a lesson I'm happy to show.
 
 ---
 
@@ -146,17 +171,13 @@ The startup I'm building alongside college: real users, real deadlines, real les
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmritBakshi2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritBakshi2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=AmritBakshi2003&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmritBakshi2003&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%" />
-
 </div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always up for talking about **web development, startups, or a project worth building together.**
+Open to **data analytics opportunities, freelance projects, and conversations** about data, web and startups.
 
 <div align="center">
 
