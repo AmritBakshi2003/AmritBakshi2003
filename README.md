@@ -16,7 +16,7 @@ Turning raw data into useful decisions — and ideas into working products.
 
 </div>
 
-About
+About: <br>
 I'm Amrit Bakshi, a Computer Science undergraduate from India moving from full-stack development toward Data Analytics and Data Science.
 
 I enjoy exploring data, finding useful patterns, and building practical tools around what I learn. My development background also helps me turn ideas into working web apps and desktop utilities.
