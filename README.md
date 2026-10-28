@@ -1,237 +1,168 @@
-<!-- Save as README.md in a public repo named exactly like your username: AmritBakshi2003/AmritBakshi2003 -->
+<!--
+Save as README.md in the public repository named AmritBakshi2003.
+Modernized profile README: clean dark aesthetic, compact icon groups, project-first layout.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Amrit%20Bakshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Science%20%7C%20Builder&descAlignY=58&descSize=20" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Amrit%20Bakshi&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Python%20%7C%20SQL%20%7C%20Building%20Useful%20Things&descAlignY=60&descSize=16&color=0:101827,55:16324F,100:087E8B" alt="Amrit Bakshi — Data Analytics and software projects" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+decisions.;From+fullstack+dev+to+data+analyst.;I+still+build+apps+for+fun+and+freelancing.;College+by+day%2C+builder+by+grind." alt="Typing SVG" />
+Turning raw data into useful decisions — and ideas into working products.
+<p>
+  <a href="https://www.linkedin.com/in/amrit-bakshi-ab2a0a253/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:amritbakshi2003@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/am_rit_bakshi/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+</div>
+
+About
+I'm Amrit Bakshi, a Computer Science undergraduate from India moving from full-stack development toward Data Analytics and Data Science.
+
+I enjoy exploring data, finding useful patterns, and building practical tools around what I learn. My development background also helps me turn ideas into working web apps and desktop utilities.
+- Current focus: Data Analytics, Python, SQL, Excel and Power BI
+- Building on the side: Web apps, websites and desktop tools
+- Interested in: Business intelligence, data storytelling and useful software
+- Open to: Data analytics opportunities, freelance projects and collaborations
+Featured data projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AmritBakshi2003/E-commerce_Sales_Analysis-Project">E-commerce Sales Analysis</a></h3>
+      Exploring e-commerce sales data to uncover trends and business insights that support better decisions.
+      <br/><br/>
+      <sub>Focus: data exploration · sales insights · analysis</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AmritBakshi2003/Synthetic-Data-Generator-v2">Synthetic Data Generator v2</a></h3>
+      A tool for generating synthetic datasets for testing, prototyping and practicing analysis without relying on real-world personal data.
+      <br/><br/>
+      <sub>Focus: synthetic data · Python · data tooling</sub>
+    </td>
+  </tr>
+</table>
+
+Apps and builds
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AmritBakshi2003/Isle">Isle</a></h3>
+      A Windows always-on-top island utility drawer with media controls, clipboard history, tasks, calendar and an app picker.
+      <br/><br/>
+      <sub>Tauri 2 · Rust · Svelte 5 · SQLite</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AmritBakshi2003/The_calcualtor">Calculator Suite</a></h3>
+      Basic, scientific and financial calculators, plus a scanner that reads handwritten math and solves it.
+      <br/><br/>
+      <sub>Cloudflare Workers · <a href="https://the-calcualtor.amritbakshi2003.workers.dev/">Live demo ↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AmritBakshi2003/My_Calender">My Calender</a></h3>
+      A personal calendar app for planning and organizing everyday tasks.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AmritBakshi2003/Snake-Game">Snake Game</a></h3>
+      A classic arcade game rebuilt as a small project.
+    </td>
+  </tr>
+</table>
+
+Tech stack
+<p><strong>Data analytics</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" alt="Python, MySQL and PostgreSQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Statistics-6C5CE7?style=flat-square" alt="Statistics" />
+</p>
+
+<p><strong>AI and data tools</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Synthetic%20Data-087E8B?style=flat-square&logo=databricks&logoColor=white" alt="Synthetic data" />
+  <img src="https://img.shields.io/badge/Data%20Annotation-3973AC?style=flat-square" alt="Data annotation" />
+</p>
+
+<p><strong>Frontend</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,nextjs,svelte" alt="HTML, CSS, JavaScript, React, Tailwind CSS, TypeScript, Next.js and Svelte" />
+</p>
+
+<p><strong>Backend and APIs</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,rust,java,cpp,postman" alt="Node.js, Express, Rust, Java, C++ and Postman" />
+</p>
+
+<p><strong>Databases</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" alt="MySQL, PostgreSQL, MongoDB, SQLite and Firebase" />
+</p>
+
+<p><strong>Cloud, deployment and version control</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,git,github" alt="AWS, Azure, Cloudflare, Docker, Git and GitHub" />
+</p>
+
+<p><strong>Design and site building</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva,webflow,wordpress" alt="Figma, Canva, Webflow and WordPress" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-BA68C8?style=flat-square" alt="UI/UX design" />
+</p>
+
+<p><strong>Professional skills</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Client%20Communication-344054?style=flat-square" alt="Client communication" />
+  <img src="https://img.shields.io/badge/Project%20Planning-344054?style=flat-square" alt="Project planning" />
+  <img src="https://img.shields.io/badge/Requirements-344054?style=flat-square" alt="Requirements gathering" />
+  <img src="https://img.shields.io/badge/Team%20Collaboration-344054?style=flat-square" alt="Team collaboration" />
+</p>
+
+My growth path
+Computer Science foundations
+          ↓
+Full-stack development and shipped projects
+          ↓
+Freelance work and practical product building
+          ↓
+Data Analytics: Python · SQL · Excel · Power BI
+          ↓
+Data Science and predictive modelling
+Area	Current direction
+Programming foundations	C, C++, Java, OOP and problem-solving
+Full-stack development	MERN, REST APIs, databases and deployment
+Product building	Web and Windows apps, client communication and planning
+Data Analytics	Python, SQL, Excel, Power BI, statistics and storytelling
+Next step	Machine learning and predictive modelling
+
+
+What drives me
+I learn fastest by building real things, sharing them openly, and learning from what breaks.
+
+- Data with purpose: analysis matters when it helps someone make a better decision.
+- A builder's perspective: I like turning ideas and insights into practical tools.
+- Learning in public: every project is an opportunity to improve and share what I learn.
+GitHub at a glance
+<div align="center">
+
+<a href="https://github.com/AmritBakshi2003">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmritBakshi2003&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=2DD4BF" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/AmritBakshi2003">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritBakshi2003&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
 </a>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-bakshi-ab2a0a253/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/am_rit_bakshi/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritbakshi2003@gmail.com)
-
 </div>
 
----
-
-## 👋 About Me
-
-I'm **Amrit Bakshi**, a developer from India who started in fullstack web development and is now **moving into Data Analytics and Data Science**. Years of building real products taught me how software works; now I'm learning how to make data tell its story.
-
-I'm studying in college, and I keep building **web apps, websites and Windows apps** for fun and freelance work. They keep my engineering skills sharp and give me a practical edge when turning analysis into something people can actually use.
-
-- 🔭 **Focus now:** Data Analytics, Data Science, Python, SQL and Power BI
-- 🛠️ **On the side:** web apps, websites and desktop tools (freelance and passion projects)
-- 💬 **Ask me about:** data analysis, the MERN stack, building and shipping side projects
-- ⚡ **Fun fact:** college by day, builder by grind
-
----
-
-## 📊 Data Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🛒 [E-commerce Sales Analysis](https://github.com/AmritBakshi2003/E-commerce_Sales_Analysis-Project)
-Exploring e-commerce sales data to uncover trends and business insights that support better decisions.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🧬 [Synthetic Data Generator v2](https://github.com/AmritBakshi2003/Synthetic-Data-Generator-v2)
-A tool for generating synthetic datasets, handy for testing, prototyping and practicing analysis without real data.
-
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Apps and Builds
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🏝️ [Isle](https://github.com/AmritBakshi2003/Isle)
-A Windows always-on-top "island" utility drawer: media controls, clipboard history, tasks and calendar, app picker.
-**Tauri 2 · Rust · Svelte 5 · SQLite**
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🧮 [Calculator Suite](https://github.com/AmritBakshi2003/The_calcualtor)
-Basic, scientific and financial calculators plus a scanner that reads handwritten math and solves it.
-**Cloudflare Workers** · [Live demo →](https://the-calcualtor.amritbakshi2003.workers.dev/)
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📅 [My Calender](https://github.com/AmritBakshi2003/My_Calender)
-A personal calendar app to plan and organize days.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🐍 [Snake Game](https://github.com/AmritBakshi2003/Snake-Game)
-The classic arcade game, rebuilt for the fun of it.
-
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Skills and Tech Stack
-
-<table>
-  <tr>
-    <td width="190" valign="top"><h4>📊 Data Analytics</h4></td>
-    <td>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/Statistics-6C5CE7?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
-      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><h4>🤖 AI & Data</h4></td>
-    <td>
-      <img src="https://img.shields.io/badge/Synthetic%20Data-00B894?style=for-the-badge&logo=databricks&logoColor=white" />
-      <img src="https://img.shields.io/badge/Data%20Annotation-0984E3?style=for-the-badge&logo=labelstudio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Data%20Labeling-00A8E8?style=for-the-badge&logo=labelstudio&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><h4>💻 Frontend</h4></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><h4>⚙️ Backend</h4></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><h4>🗄️ Databases</h4></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><h4>☁️ Deployment</h4></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><h4>🎨 UI / UX Design</h4></td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-      <img src="https://img.shields.io/badge/User%20Experience-FF6B9D?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-      <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><h4>🤝 Professional Skills</h4></td>
-    <td>
-      <img src="https://img.shields.io/badge/Requirement%20Gathering-2D3436?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Client%20Communication-2D3436?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Project%20Planning-2D3436?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Stakeholder%20Management-2D3436?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Team%20Leadership-2D3436?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Cross--functional%20Collaboration-2D3436?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 My Growth Roadmap
-
-```text
- Foundations        Fullstack Dev       Freelance & Builder     Data Career (now)
- ───────────        ─────────────       ───────────────────     ─────────────────
- C · C++ · Java →   MERN · Next.js  →   Client apps · Rust  →   Data Analytics
- OOP · DSA          Databases · Cloud   & desktop tools         Data Science
-```
-
-| Stage | Focus | Status |
-|:--|:--|:--|
-| 🧱 **Foundations** | Programming fundamentals, OOP, problem solving | ✅ Done |
-| 🌐 **Fullstack** | MERN, REST APIs, databases, deployment | ✅ Shipped projects |
-| 💼 **Freelance and builds** | Client work, web and Windows apps, product thinking | 🔄 Ongoing |
-| 📊 **Data Analytics** | Python, SQL, Excel, Power BI, statistics, storytelling | 🔄 Learning and building |
-| 🤖 **Data Science** | Machine learning, predictive modeling | 🎯 Next up |
-
----
-
-## 🎯 What Drives Me
-
-> I learn fastest by **building real things, sharing them openly, and learning from what breaks.**
-
-- 📊 **Data with purpose.** Analysis only matters when it leads to a decision.
-- 🔨 **Builder's edge.** My development background lets me take an idea from raw data to a working tool.
-- 📚 **Learn in public.** Every repo here is a lesson I'm happy to show.
-
----
-
-## 📊 GitHub Stats
-
+Let's connect
+I'm open to data analytics opportunities, freelance projects and conversations about data, business intelligence and software development.
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmritBakshi2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritBakshi2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-</div>
-
----
-
-## 🤝 Let's Connect
-
-Open to **data analytics opportunities, freelance projects, and conversations** about data and web development.
-
-<div align="center">
-
-📫 **[amritbakshi2003@gmail.com](mailto:amritbakshi2003@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/amrit-bakshi-ab2a0a253/)** · 📸 **[Instagram](https://www.instagram.com/am_rit_bakshi/)**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+<a href="mailto:amritbakshi2003@gmail.com"><img src="https://img.shields.io/badge/Email-amritbakshi2003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Amrit" /></a>
+<a href="https://www.linkedin.com/in/amrit-bakshi-ab2a0a253/"><img src="https://img.shields.io/badge/LinkedIn-Amrit%20Bakshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Amrit on LinkedIn" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:087E8B,55:16324F,100:101827" alt="" />
 
 </div>
