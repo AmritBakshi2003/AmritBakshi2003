@@ -38,38 +38,38 @@ I'm studying in college and still build web apps, desktop tools and freelance pr
 ## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 #### [E-commerce Sales Analysis](https://github.com/AmritBakshi2003/E-commerce_Sales_Analysis-Project)
 Analysis of e-commerce sales data to uncover trends and business insights that support better decisions.
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 #### [Synthetic Data Generator v2](https://github.com/AmritBakshi2003/Synthetic-Data-Generator-v2)
 Generates synthetic datasets for testing, prototyping and practising analysis without real data.
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 #### [Isle](https://github.com/AmritBakshi2003/Isle)
 Always-on-top Windows utility drawer with media controls, clipboard history, tasks, calendar and an app picker.
 
 <img src="https://skillicons.dev/icons?i=tauri,rust,svelte,sqlite" alt="Tauri, Rust, Svelte, SQLite" />
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 #### [Calculator Suite](https://github.com/AmritBakshi2003/The_calcualtor)
 Basic, scientific and financial calculators, plus a scanner that reads handwritten math and solves it. &nbsp;[Live demo](https://the-calcualtor.amritbakshi2003.workers.dev/)
 
 <img src="https://skillicons.dev/icons?i=cloudflare,js" alt="Cloudflare Workers, JavaScript" />
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 More on my [repositories page](https://github.com/AmritBakshi2003?tab=repositories), including a calendar app and a snake game.
@@ -114,8 +114,8 @@ flowchart LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AmritBakshi2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmritBakshi2003&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AmritBakshi2003&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmritBakshi2003&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritBakshi2003&layout=compact&theme=tokyonight&hide_border=true" />
