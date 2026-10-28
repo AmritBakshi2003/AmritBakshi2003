@@ -71,52 +71,80 @@ Apps and builds
 </table>
 
 Tech stack
+Consistent, compact brand badges with recognizable logos. These use Shields.io logos instead of mixing icon sprites and text-only badges, so each skill renders with a uniform style.
+
 <p><strong>Data analytics</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" alt="Python, MySQL and PostgreSQL" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Statistics-6C5CE7?style=flat-square" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Statistics-6C5CE7?style=flat-square&logo=wolframmathematica&logoColor=white" alt="Statistics" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
 <p><strong>AI and data tools</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Synthetic%20Data-087E8B?style=flat-square&logo=databricks&logoColor=white" alt="Synthetic data" />
-  <img src="https://img.shields.io/badge/Data%20Annotation-3973AC?style=flat-square" alt="Data annotation" />
+  <img src="https://img.shields.io/badge/Data%20Annotation-3973AC?style=flat-square&logo=labelstudio&logoColor=white" alt="Data annotation" />
 </p>
 
 <p><strong>Frontend</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,nextjs,svelte" alt="HTML, CSS, JavaScript, React, Tailwind CSS, TypeScript, Next.js and Svelte" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
 </p>
 
 <p><strong>Backend and APIs</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,rust,java,cpp,postman" alt="Node.js, Express, Rust, Java, C++ and Postman" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-303030?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 <p><strong>Databases</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" alt="MySQL, PostgreSQL, MongoDB, SQLite and Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111" alt="Firebase" />
 </p>
 
 <p><strong>Cloud, deployment and version control</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,git,github" alt="AWS, Azure, Cloudflare, Docker, Git and GitHub" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <p><strong>Design and site building</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva,webflow,wordpress" alt="Figma, Canva, Webflow and WordPress" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-BA68C8?style=flat-square" alt="UI/UX design" />
+  <img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white" alt="Webflow" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-BA68C8?style=flat-square" alt="UI/UX design" />
 </p>
 
 <p><strong>Professional skills</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Client%20Communication-344054?style=flat-square" alt="Client communication" />
   <img src="https://img.shields.io/badge/Project%20Planning-344054?style=flat-square" alt="Project planning" />
-  <img src="https://img.shields.io/badge/Requirements-344054?style=flat-square" alt="Requirements gathering" />
+  <img src="https://img.shields.io/badge/Requirements%20Gathering-344054?style=flat-square" alt="Requirements gathering" />
   <img src="https://img.shields.io/badge/Team%20Collaboration-344054?style=flat-square" alt="Team collaboration" />
 </p>
 
