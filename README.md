@@ -64,7 +64,7 @@ Always-on-top Windows utility drawer with media controls, clipboard history, tas
 <td width="50%" valign="top">
 
 #### [Calculator Suite](https://github.com/AmritBakshi2003/The_calcualtor)
-Basic, scientific and financial calculators, plus a scanner that reads handwritten math and solves it. &nbsp;[Live demo](https://the-calcualtor.amritbakshi2003.workers.dev/)
+Basic, scientific and financial calculators, Main highlight is the OCR scanner that reads handwritten math and solves it. &nbsp;[Live demo](https://the-calcualtor.amritbakshi2003.workers.dev/)
 
 <img src="https://skillicons.dev/icons?i=cloudflare,js" alt="Cloudflare Workers, JavaScript" />
 
